@@ -6,6 +6,6 @@ pluginManagement {
     }
 }
 
-rootProject.name = "example"
+rootProject.name = "kobweb-test-playground"
 
 include(":site")
